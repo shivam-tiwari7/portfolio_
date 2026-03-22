@@ -3,26 +3,26 @@ import { motion } from "motion/react";
 
 const certs = [
   {
-    name: "Responsive Web Design",
-    org: "freeCodeCamp",
+    name: "Complete Full stack Web development",
+    org: "udemy",
     category: "Web",
-    link: "https://www.freecodecamp.org/certification/fcce7c7883d-412a-486f-a4d8-f1b2507ba787/responsive-web-design",
+    link: "https://drive.google.com/file/d/11xj1waggEe1rfs3GZP5H5o7dv9IT53Iz/view?usp=sharing",
   },
   {
-    name: "Basic Python towards ML/AI",
-    org: "CSE Pathshala",
+    name: "A Guide to Machine learning ",
+    org: "Cipher School",
     category: "ML",
-    link: "#",
+    link: "https://drive.google.com/file/d/1dMQAPd2PV6AUXUqTqQ5AKd7xn1jFqQhe/view?usp=sharing",
   },
   {
-    name: "Cloud Computing",
+    name: "Privacy and Security in Online Social Media",
     org: "NPTEL",
-    category: "Cloud",
-    link: "#",
+    category: "Cyber Security",
+    link: "https://drive.google.com/file/d/1xrjZESEzTIck4dIZoOy8cbfPau40XQoE/view?usp=sharing",
   },
 ];
 
-const filters = ["All", "Web", "ML", "Cloud"];
+const filters = ["All", "Web", "ML", "Cyber"];
 
 const Certifications = () => {
   const [active, setActive] = useState("All");

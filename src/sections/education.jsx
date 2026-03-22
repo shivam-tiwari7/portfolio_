@@ -5,19 +5,19 @@ const education = [
     title: "B.Tech — CSE",
     school: "Lovely Professional University",
     year: "2023 – Present",
-    score: "CGPA: 7.5",
+    score: "CGPA: 8.37",
   },
   {
     title: "Class XII",
-    school: "B.K. Sr. Sec. School",
+    school: "Surya Public School",
     year: "2022 – 2023",
-    score: "87%",
+    score: "86",
   },
   {
     title: "Class X",
-    school: "B.K. Sr. Sec. School",
+    school: "Seth M.R. Jaipuria school",
     year: "2019 – 2020",
-    score: "83%",
+    score: "92%",
   },
 ];
 
